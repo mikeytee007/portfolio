@@ -331,7 +331,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/kingatbath-60x40-72-1701x1134.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
@@ -372,10 +372,10 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/western-warship-paddington-150-2000x1285.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": false,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
