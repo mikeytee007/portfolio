@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "miketurton",
-    "currentPage": "page9.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -42,7 +42,7 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 219,
-    "versionPublish": "5.2.0",
+    "versionPublish": "4.12.3",
     "imageResize": true,
     "screenshot": "screenshot.png",
     "gdpr": {
